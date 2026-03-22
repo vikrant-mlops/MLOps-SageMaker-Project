@@ -1,0 +1,9 @@
+PAT/
+*.pem
+*.key
+.env
+.aws/
+credentials
+config
+__pycache__/
+*.pyc
