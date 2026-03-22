@@ -1,0 +1,4 @@
+{
+  "InstanceType": "ml.m5.large",
+  "InitialInstanceCount": 1
+}
